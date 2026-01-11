@@ -1,0 +1,13 @@
+# Ignore database files
+*.sql
+
+# Ignore environment/config files
+.env
+
+# Ignore XAMPP / local server files
+htdocs/
+xampp/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
